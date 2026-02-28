@@ -1,0 +1,9 @@
+{
+  "name": "stacks-reward-ledger",
+  "version": "1.0.0",
+  "description": "Stacks smart contract example with Clarity",
+  "dependencies": {
+    "@stacks/connect": "^7.0.0",
+    "@stacks/transactions": "^7.0.0"
+  }
+}
