@@ -2,16 +2,9 @@
 
 A reward tracking smart contract built with Clarity on Stacks.
 
-## Features
-
-- Reward accounting
-- On-chain balances
-- Clarity smart contract
-- Stacks integration
-
-## Tech Stack
+## Tech
 
 - Stacks
 - Clarity
-- @stacks/connect
-- @stacks/transactions
+- stacks/connect
+- stacks/transactions
