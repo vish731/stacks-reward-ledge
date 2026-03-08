@@ -7,4 +7,5 @@ A reward tracking smart contract built with Clarity on Stacks.
 - Stacks
 - Clarity
 - stacks/connect
-- stacks/transactions
+
+- stacks/transactions.
