@@ -16,8 +16,7 @@
     )
     (ok amount)
   )
-
-
+)
 ;; Claim rewards
 (define-public (claim (amount uint))
   (let ((bal (default-to u0 (map-get? balances tx-sender))))
