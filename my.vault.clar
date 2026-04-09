@@ -16,7 +16,7 @@
     )
     (ok amount)
   )
-)
+
 
 ;; Claim rewards
 (define-public (claim (amount uint))
